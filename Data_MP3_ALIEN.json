@@ -44,8 +44,14 @@
     },
     {
       "id": 2,
-      "nama": "Hanan Attaki",
-      "gambar": "https://cdn2.boombastis.com/wp-content/uploads/2019/03/Menilik-Masjid-Gaul-di-Indonesia-Ala-Ustadz-Hanan-Attaki-Ada-Apa-Sebenarnya.jpg"
+      "nama": "BIGBANG",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f3/BIGBANG_With_U.jpg"
+    
+    },
+    {
+      "id": 3,
+      "nama": "BTS",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/4/4f/BTS_for_Dispatch_White_Day_Special%2C_27_February_2019_01.jpg"
     
     }
   ],
@@ -54,16 +60,16 @@
       "no": 1,
       "idmp3": "1",
       "nama_aut": "BLACKPINK",
-      "Judul": "BLACKPINK - Boombayah",
+      "Judul": "Boombayah",
       "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/01%20-%20BOOMBAYAH%20-%20HULKPOP.mp3",
       "lirik": "https://alienlirik.blogspot.com/2020/04/nasihat-kepada-yang-malas-ibadah.html"  
       },
     {
        "no": 2,
       "idmp3": "2",
-      "nama_aut": "Khalid Basalamah",
-     "Judul": "Dosa hanya akan membawa keburukan",
-      "url_mp3": "http://hexa.web.id/dosa_membawa_keburukan.mp3",
+      "nama_aut": "BLACKPINK",
+     "Judul": "Kill This Love",
+      "url_mp3": "https://ia601507.us.archive.org/9/items/m1reng_202007/01%20-%20Kill%20This%20Love%20-%20HULKPOP.mp3",
       "lirik": "https://alienlirik.blogspot.com/2020/04/nasihat-kepada-yang-malas-ibadah.html"
     },
     {
